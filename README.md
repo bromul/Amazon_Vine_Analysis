@@ -8,7 +8,11 @@
 
 ### Paid Reviews
 
+![Paid Reviews](Images/paid_reviews.PNG)
+
 ### Unpaid Reviews
+
+![Unpaid Reviews](Images/unpaid_reviews.PNG)
 
 ## Summary
 
